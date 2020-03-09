@@ -1,0 +1,11 @@
+C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\bin\Debug\netcoreapp3.1\IntroProgSelection.exe
+C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\bin\Debug\netcoreapp3.1\IntroProgSelection.deps.json
+C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\bin\Debug\netcoreapp3.1\IntroProgSelection.runtimeconfig.json
+C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\bin\Debug\netcoreapp3.1\IntroProgSelection.runtimeconfig.dev.json
+C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\bin\Debug\netcoreapp3.1\IntroProgSelection.dll
+C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\bin\Debug\netcoreapp3.1\IntroProgSelection.pdb
+C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\obj\Debug\netcoreapp3.1\IntroProgSelection.csprojAssemblyReference.cache
+C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\obj\Debug\netcoreapp3.1\IntroProgSelection.AssemblyInfoInputs.cache
+C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\obj\Debug\netcoreapp3.1\IntroProgSelection.AssemblyInfo.cs
+C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\obj\Debug\netcoreapp3.1\IntroProgSelection.dll
+C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\obj\Debug\netcoreapp3.1\IntroProgSelection.pdb

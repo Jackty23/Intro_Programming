@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\badga\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\badga\\.nuget\\packages"
+    ]
+  }
+}

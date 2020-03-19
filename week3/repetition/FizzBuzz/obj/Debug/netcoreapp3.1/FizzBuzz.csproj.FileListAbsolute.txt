@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb

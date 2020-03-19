@@ -9,3 +9,14 @@ C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\obj\Debug\netcoreap
 C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\obj\Debug\netcoreapp3.1\Programusernamepass.AssemblyInfo.cs
 C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\obj\Debug\netcoreapp3.1\Programusernamepass.dll
 C:\Users\badga\Desktop\Intro_Programming\Progusernameandpass\obj\Debug\netcoreapp3.1\Programusernamepass.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\Progusernameandpass\bin\Debug\netcoreapp3.1\Programusernamepass.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\Progusernameandpass\bin\Debug\netcoreapp3.1\Programusernamepass.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\Progusernameandpass\bin\Debug\netcoreapp3.1\Programusernamepass.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\Progusernameandpass\bin\Debug\netcoreapp3.1\Programusernamepass.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\Progusernameandpass\bin\Debug\netcoreapp3.1\Programusernamepass.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\Progusernameandpass\bin\Debug\netcoreapp3.1\Programusernamepass.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\Progusernameandpass\obj\Debug\netcoreapp3.1\Programusernamepass.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\Progusernameandpass\obj\Debug\netcoreapp3.1\Programusernamepass.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\Progusernameandpass\obj\Debug\netcoreapp3.1\Programusernamepass.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\Progusernameandpass\obj\Debug\netcoreapp3.1\Programusernamepass.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\Progusernameandpass\obj\Debug\netcoreapp3.1\Programusernamepass.pdb

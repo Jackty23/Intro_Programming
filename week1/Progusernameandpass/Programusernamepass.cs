@@ -1,4 +1,3 @@
-
 using System;
 
 namespace Programusernameandpass {
@@ -22,8 +21,11 @@ namespace Programusernameandpass {
                 } else {
                     System.Console.WriteLine ("Login Unsuccessful");
                 }
-            }
-        }
 
+            } else {
+                System.Console.WriteLine ("Login Unsuccessful");
+            }
+
+        }
     }
 }

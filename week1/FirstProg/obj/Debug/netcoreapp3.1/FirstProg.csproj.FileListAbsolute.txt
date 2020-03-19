@@ -20,3 +20,14 @@ C:\Users\badga\Desktop\Intro_Programming\FirstProg\obj\Debug\netcoreapp3.1\First
 C:\Users\badga\Desktop\Intro_Programming\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.AssemblyInfo.cs
 C:\Users\badga\Desktop\Intro_Programming\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.dll
 C:\Users\badga\Desktop\Intro_Programming\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\FirstProg\bin\Debug\netcoreapp3.1\FirstProg.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\FirstProg\bin\Debug\netcoreapp3.1\FirstProg.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\FirstProg\bin\Debug\netcoreapp3.1\FirstProg.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\FirstProg\bin\Debug\netcoreapp3.1\FirstProg.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\FirstProg\bin\Debug\netcoreapp3.1\FirstProg.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\FirstProg\bin\Debug\netcoreapp3.1\FirstProg.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\FirstProg\obj\Debug\netcoreapp3.1\FirstProg.pdb

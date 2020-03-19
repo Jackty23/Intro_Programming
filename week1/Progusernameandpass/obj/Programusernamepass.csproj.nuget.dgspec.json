@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\badga\\Desktop\\Intro_Programming\\Progusernameandpass\\Programusernamepass.csproj": {}
+    "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\week1\\Progusernameandpass\\Programusernamepass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\badga\\Desktop\\Intro_Programming\\Progusernameandpass\\Programusernamepass.csproj": {
+    "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\week1\\Progusernameandpass\\Programusernamepass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\badga\\Desktop\\Intro_Programming\\Progusernameandpass\\Programusernamepass.csproj",
+        "projectUniqueName": "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\week1\\Progusernameandpass\\Programusernamepass.csproj",
         "projectName": "Programusernamepass",
-        "projectPath": "C:\\Users\\badga\\Desktop\\Intro_Programming\\Progusernameandpass\\Programusernamepass.csproj",
-        "packagesPath": "C:\\Users\\badga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\badga\\Desktop\\Intro_Programming\\Progusernameandpass\\obj\\",
+        "projectPath": "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\week1\\Progusernameandpass\\Programusernamepass.csproj",
+        "packagesPath": "C:\\Users\\Lachlan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\week1\\Progusernameandpass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\badga\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Lachlan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

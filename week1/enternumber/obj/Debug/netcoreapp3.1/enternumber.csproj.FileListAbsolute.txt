@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\enternumber\bin\Debug\netcoreapp3.1\enternumber.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\enternumber\bin\Debug\netcoreapp3.1\enternumber.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\enternumber\bin\Debug\netcoreapp3.1\enternumber.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\enternumber\bin\Debug\netcoreapp3.1\enternumber.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\enternumber\bin\Debug\netcoreapp3.1\enternumber.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\enternumber\bin\Debug\netcoreapp3.1\enternumber.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\enternumber\obj\Debug\netcoreapp3.1\enternumber.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\enternumber\obj\Debug\netcoreapp3.1\enternumber.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\enternumber\obj\Debug\netcoreapp3.1\enternumber.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\enternumber\obj\Debug\netcoreapp3.1\enternumber.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week1\enternumber\obj\Debug\netcoreapp3.1\enternumber.pdb

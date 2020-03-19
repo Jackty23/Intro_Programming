@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\task5\obj\Debug\netcoreapp3.1\task5.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\task5\obj\Debug\netcoreapp3.1\task5.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\task5\obj\Debug\netcoreapp3.1\task5.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\task5\bin\Debug\netcoreapp3.1\task5.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\task5\bin\Debug\netcoreapp3.1\task5.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\task5\bin\Debug\netcoreapp3.1\task5.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\task5\bin\Debug\netcoreapp3.1\task5.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\task5\bin\Debug\netcoreapp3.1\task5.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\task5\bin\Debug\netcoreapp3.1\task5.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\task5\obj\Debug\netcoreapp3.1\task5.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week3\repetition\task5\obj\Debug\netcoreapp3.1\task5.pdb

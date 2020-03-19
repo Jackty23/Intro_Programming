@@ -55,7 +55,7 @@ namespace RockPaperScissors {
                         System.Console.WriteLine ("Draw");
                         System.Console.WriteLine ("try again");
                     }
-                    //rocks
+                    //rock
                     if (userinput == "rock" && computerguess == "paper") {
                         System.Console.WriteLine ("You Lose");
                         turnscounter = turnscounter + 1;
@@ -67,7 +67,7 @@ namespace RockPaperScissors {
                         PlayerTurnsWon = PlayerTurnsWon + 1;
                     }
 
-                    //papers
+                    //paper
                     if (userinput == "paper" && computerguess == "scissors") {
                         System.Console.WriteLine ("You Lose");
                         turnscounter = turnscounter + 1;

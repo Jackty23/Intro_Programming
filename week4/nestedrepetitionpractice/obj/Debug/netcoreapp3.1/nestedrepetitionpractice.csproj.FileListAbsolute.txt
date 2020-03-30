@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\nestedrepetitionpractice\bin\Debug\netcoreapp3.1\nestedrepetitionpractice.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\nestedrepetitionpractice\bin\Debug\netcoreapp3.1\nestedrepetitionpractice.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\nestedrepetitionpractice\bin\Debug\netcoreapp3.1\nestedrepetitionpractice.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\nestedrepetitionpractice\bin\Debug\netcoreapp3.1\nestedrepetitionpractice.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\nestedrepetitionpractice\bin\Debug\netcoreapp3.1\nestedrepetitionpractice.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\nestedrepetitionpractice\bin\Debug\netcoreapp3.1\nestedrepetitionpractice.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\nestedrepetitionpractice\obj\Debug\netcoreapp3.1\nestedrepetitionpractice.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\nestedrepetitionpractice\obj\Debug\netcoreapp3.1\nestedrepetitionpractice.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\nestedrepetitionpractice\obj\Debug\netcoreapp3.1\nestedrepetitionpractice.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\nestedrepetitionpractice\obj\Debug\netcoreapp3.1\nestedrepetitionpractice.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\nestedrepetitionpractice\obj\Debug\netcoreapp3.1\nestedrepetitionpractice.pdb

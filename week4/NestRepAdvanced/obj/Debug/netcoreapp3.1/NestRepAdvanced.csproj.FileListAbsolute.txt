@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\NestRepAdvanced\bin\Debug\netcoreapp3.1\NestRepAdvanced.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\NestRepAdvanced\bin\Debug\netcoreapp3.1\NestRepAdvanced.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\NestRepAdvanced\bin\Debug\netcoreapp3.1\NestRepAdvanced.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\NestRepAdvanced\bin\Debug\netcoreapp3.1\NestRepAdvanced.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\NestRepAdvanced\bin\Debug\netcoreapp3.1\NestRepAdvanced.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\NestRepAdvanced\bin\Debug\netcoreapp3.1\NestRepAdvanced.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\NestRepAdvanced\obj\Debug\netcoreapp3.1\NestRepAdvanced.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\NestRepAdvanced\obj\Debug\netcoreapp3.1\NestRepAdvanced.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\NestRepAdvanced\obj\Debug\netcoreapp3.1\NestRepAdvanced.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\NestRepAdvanced\obj\Debug\netcoreapp3.1\NestRepAdvanced.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\NestRepAdvanced\obj\Debug\netcoreapp3.1\NestRepAdvanced.pdb

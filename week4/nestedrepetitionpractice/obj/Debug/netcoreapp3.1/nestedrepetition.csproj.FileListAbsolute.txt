@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\bin\Debug\netcoreapp3.1\nestedrepetition.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\bin\Debug\netcoreapp3.1\nestedrepetition.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\bin\Debug\netcoreapp3.1\nestedrepetition.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\bin\Debug\netcoreapp3.1\nestedrepetition.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\bin\Debug\netcoreapp3.1\nestedrepetition.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\bin\Debug\netcoreapp3.1\nestedrepetition.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\obj\Debug\netcoreapp3.1\nestedrepetition.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\obj\Debug\netcoreapp3.1\nestedrepetition.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\obj\Debug\netcoreapp3.1\nestedrepetition.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\obj\Debug\netcoreapp3.1\nestedrepetition.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week4\obj\Debug\netcoreapp3.1\nestedrepetition.pdb

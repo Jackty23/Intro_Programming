@@ -1,0 +1,3 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\obj\Debug\netcoreapp3.1\Intro_Programming.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\obj\Debug\netcoreapp3.1\Intro_Programming.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\obj\Debug\netcoreapp3.1\Intro_Programming.AssemblyInfo.cs

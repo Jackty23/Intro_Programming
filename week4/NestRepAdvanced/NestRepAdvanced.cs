@@ -5,9 +5,8 @@ namespace NestRepAdvanced {
         static void Main (string[] args) {
 
             string x = "x";
-            int counter = 0;
             string space = " ";
-            counter = 0;
+            int counter = 0;
 
             System.Console.WriteLine ();
 
@@ -21,8 +20,7 @@ namespace NestRepAdvanced {
                 while (counter3 > 0) {
 
                     System.Console.Write (space);
-                    counter3--;
-                    counter3--;
+                    counter3 -= 2;
 
                 }
 
@@ -35,8 +33,7 @@ namespace NestRepAdvanced {
 
                 System.Console.WriteLine ();
 
-                counter++;
-                counter++;
+                counter += 2;
 
             }
 
@@ -48,8 +45,7 @@ namespace NestRepAdvanced {
 
             while (counter <= 10) {
 
-                counter++;
-                counter++;
+                counter += 2;
 
                 int counter2 = counter;
                 int counter3 = counter;
@@ -57,8 +53,7 @@ namespace NestRepAdvanced {
                 while (counter3 <= 10) {
 
                     System.Console.Write (space);
-                    counter3++;
-                    counter3++;
+                    counter3 += 2;
 
                 }
 
@@ -81,7 +76,7 @@ namespace NestRepAdvanced {
             System.Console.WriteLine ();
             int count = 0;
 
-            // ----------cone--------------------
+            // ----------user input cone--------------------
 
             while (count <= input) {
 
@@ -91,8 +86,7 @@ namespace NestRepAdvanced {
                 while (count3 > 0) {
 
                     System.Console.Write (space);
-                    count3--;
-                    count3--;
+                    count3 -= 2;
 
                 }
 
@@ -105,20 +99,18 @@ namespace NestRepAdvanced {
 
                 System.Console.WriteLine ();
 
-                count++;
-                count++;
+                count += 2;
 
             }
 
             System.Console.WriteLine ();
-            // -----------tree-------------------
+            // -----------user input tree-------------------
 
             count = 0;
 
             while (count <= input) {
 
-                count++;
-                count++;
+                count += 2;
 
                 int count2 = count;
                 int count3 = count;
@@ -126,8 +118,7 @@ namespace NestRepAdvanced {
                 while (count3 <= input) {
 
                     System.Console.Write (space);
-                    count3++;
-                    count3++;
+                    count3 += 2;
 
                 }
 

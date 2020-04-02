@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\testing1\obj\Debug\netcoreapp3.1\testing1.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\testing1\obj\Debug\netcoreapp3.1\testing1.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\testing1\obj\Debug\netcoreapp3.1\testing1.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\testing1.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\testing1.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\testing1.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\testing1.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\testing1.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\testing1.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\testing1\obj\Debug\netcoreapp3.1\testing1.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\testing1\obj\Debug\netcoreapp3.1\testing1.pdb

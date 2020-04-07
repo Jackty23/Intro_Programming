@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb

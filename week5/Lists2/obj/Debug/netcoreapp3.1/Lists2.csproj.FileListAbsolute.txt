@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\lists2\bin\Debug\netcoreapp3.1\Lists2.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\lists2\bin\Debug\netcoreapp3.1\Lists2.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\lists2\bin\Debug\netcoreapp3.1\Lists2.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\lists2\bin\Debug\netcoreapp3.1\Lists2.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\lists2\bin\Debug\netcoreapp3.1\Lists2.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\lists2\bin\Debug\netcoreapp3.1\Lists2.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\lists2\obj\Debug\netcoreapp3.1\Lists2.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\lists2\obj\Debug\netcoreapp3.1\Lists2.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\lists2\obj\Debug\netcoreapp3.1\Lists2.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\lists2\obj\Debug\netcoreapp3.1\Lists2.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\lists2\obj\Debug\netcoreapp3.1\Lists2.pdb

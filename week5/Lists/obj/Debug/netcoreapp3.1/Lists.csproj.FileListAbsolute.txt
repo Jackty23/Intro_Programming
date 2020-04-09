@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Lists\obj\Debug\netcoreapp3.1\Lists.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Lists\bin\Debug\netcoreapp3.1\Lists.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Lists\bin\Debug\netcoreapp3.1\Lists.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Lists\bin\Debug\netcoreapp3.1\Lists.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Lists\bin\Debug\netcoreapp3.1\Lists.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Lists\obj\Debug\netcoreapp3.1\Lists.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\Week5\Lists\obj\Debug\netcoreapp3.1\Lists.pdb

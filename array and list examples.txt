@@ -1,0 +1,58 @@
+using System;
+using System.Collections.Generic;
+
+namespace LectureExamples
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int size = 10;
+            // creates an empty array
+            int[] nums = new int[size];
+
+            int index = 0;
+
+
+            // while (index < nums.Length) {
+            //     System.Console.Write("Please enter a number: ");
+            //     // read string from console
+            //     string consoleRead = Console.ReadLine();
+            //     // convert to integer
+            //     int input = int.Parse(consoleRead);
+
+            //     nums[index] = input;
+
+            //     index++;
+            // }
+
+            // index = 0;
+            // while (index < nums.Length) {
+
+            //     System.Console.WriteLine("index: " + index + " | value: " + nums[index]);
+
+            //     index++;
+            // } 
+
+            System.Console.WriteLine("============================");
+
+            // ================ LISTS ===================== //
+            List<int> numsList = new List<int>();
+
+            numsList.Add(900);
+            numsList.Add(800);
+            numsList.Add(888);
+
+            numsList[0] = 100;
+
+            System.Console.WriteLine(numsList.Count);
+
+            for (int i = 0; i < numsList.Count; i++) {
+                System.Console.WriteLine(numsList[i]);
+            }
+
+
+
+        }
+    }
+}

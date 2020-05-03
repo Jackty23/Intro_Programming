@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\week6\bin\Debug\netcoreapp3.1\functionsmethods.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\week6\bin\Debug\netcoreapp3.1\functionsmethods.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week6\bin\Debug\netcoreapp3.1\functionsmethods.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week6\bin\Debug\netcoreapp3.1\functionsmethods.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week6\bin\Debug\netcoreapp3.1\functionsmethods.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week6\bin\Debug\netcoreapp3.1\functionsmethods.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\week6\obj\Debug\netcoreapp3.1\functionsmethods.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week6\obj\Debug\netcoreapp3.1\functionsmethods.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week6\obj\Debug\netcoreapp3.1\functionsmethods.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\week6\obj\Debug\netcoreapp3.1\functionsmethods.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week6\obj\Debug\netcoreapp3.1\functionsmethods.pdb

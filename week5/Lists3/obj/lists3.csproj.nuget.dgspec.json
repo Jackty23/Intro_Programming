@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\Week5\\lists3\\lists3.csproj": {}
+    "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\week5\\lists3\\lists3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\Week5\\lists3\\lists3.csproj": {
+    "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\week5\\lists3\\lists3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\Week5\\lists3\\lists3.csproj",
+        "projectUniqueName": "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\week5\\lists3\\lists3.csproj",
         "projectName": "lists3",
-        "projectPath": "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\Week5\\lists3\\lists3.csproj",
+        "projectPath": "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\week5\\lists3\\lists3.csproj",
         "packagesPath": "C:\\Users\\Lachlan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\Week5\\lists3\\obj\\",
+        "outputPath": "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\week5\\lists3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lachlan\\AppData\\Roaming\\NuGet\\NuGet.Config"

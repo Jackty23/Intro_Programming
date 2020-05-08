@@ -138,6 +138,7 @@ namespace week6 {
                 input = System.Console.ReadLine ();
 
                 int spaces = 0;
+                
                 for (int i = 0; i < input.Length; i++) {
                     if (input[i] == ' ') {
                         spaces++;

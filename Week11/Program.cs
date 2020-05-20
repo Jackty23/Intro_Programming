@@ -29,11 +29,14 @@ namespace DiceRoller
             System.Console.WriteLine(p2.Dice.Count);
             p2.AddNewDie(18);
             System.Console.WriteLine(p2.Dice.Count);
+            System.Console.WriteLine();
 
-            for(int i = 0; i < 20; i++) {
+            // for(int i = 0; i < p1.Dice.Count; i++) {
                 // roll William Wallace's second die
-                System.Console.WriteLine(p1.RollDie(4));
-            }
+                System.Console.WriteLine("Die roll 1 = " + (p1.RollDie(0)));
+                System.Console.WriteLine(p1.Dice[0]);
+                System.Console.WriteLine("Die roll = " + (p1.RollDie(1)));
+            // }
         }
     }
 
@@ -77,7 +80,7 @@ namespace DiceRoller
         /// <returns></returns>
         public int RollDie(int die) {
             int roll = -1;
-            if(die > 0 && die < Dice.Count) {
+            if(die >= 0 && die < Dice.Count) {
                 roll = Dice[die].Roll();
             }
             return roll;
@@ -88,6 +91,12 @@ namespace DiceRoller
         /// </summary>
         /// <returns></returns>
         public int RollAllDice() {
+
+int total = 0;
+
+for(i=0, )
+
+
             return 0; // placeholder
         }
 

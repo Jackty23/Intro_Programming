@@ -1,0 +1,11 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\week13\obj\Debug\netcoreapp3.1\week13.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week13\obj\Debug\netcoreapp3.1\week13.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\week13\obj\Debug\netcoreapp3.1\week13.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\week13\bin\Debug\netcoreapp3.1\week13.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\week13\bin\Debug\netcoreapp3.1\week13.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week13\bin\Debug\netcoreapp3.1\week13.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week13\bin\Debug\netcoreapp3.1\week13.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\week13\bin\Debug\netcoreapp3.1\week13.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week13\bin\Debug\netcoreapp3.1\week13.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\week13\obj\Debug\netcoreapp3.1\week13.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\week13\obj\Debug\netcoreapp3.1\week13.pdb

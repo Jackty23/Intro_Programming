@@ -30,7 +30,7 @@ namespace week13
             }
             System.Console.WriteLine();
             System.Console.WriteLine();
-            
+
             // Methods -------------------------------------------------------------------------
 
             void CreateBoard()
@@ -41,7 +41,7 @@ namespace week13
                 for (int a = 0; a < boardsize; a++)
                 {
                     row[a] = a + 1;
-                    System.Console.Write("Row " + row[a] + " -");
+                    // System.Console.Write("Row " + row[a] + " -");
                     for (int i = 0; i < column.Length;)
                     {
                         int RandomNumber = random.Next(1, 90);
@@ -75,7 +75,7 @@ namespace week13
             void Line()
             {
                 System.Console.WriteLine();
-                System.Console.Write("        ");
+                System.Console.Write(" ");
 
                 for (int o = 0; o < column.Length; o++)
                 {

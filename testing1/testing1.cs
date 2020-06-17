@@ -7,42 +7,139 @@ namespace task2 {
 
         public static void Main (string[] args) {
 
-            var b1 = new Book ("Moby Dick", 666);
-            var b2 = new Book ("Happy Dogs!", 50);
+            List<int> UsedNumbers = new List<int> { 7, 5, 3, 1, 9 };
 
-            // b1.PrintBookInfo (b2);
-            // b2.PrintBookInfo (b1);
+            List<int> SeqList = new List<int> ();
 
-            System.Console.WriteLine (b1.BookPageNo - b2.BookPageNo);
+            for (int i = 0; i < UsedNumbers.Count; i++) {
+                SeqList.Add (UsedNumbers[i]);
+            }
 
-            System.Console.WriteLine();
+            SeqList.Sort ();
 
-            b1.ComparePageNumbers(b2);
-            
+            System.Console.WriteLine ();
+
+            for (int c = 0; c < SeqList.Count; c++) {
+                if (c == SeqList.Count - 1) {
+                    System.Console.Write (SeqList[c] + ". ");
+                } else {
+                    if (c < SeqList.Count) {
+                        System.Console.Write (SeqList[c] + ", ");
+                    }
+                }
+            }
+
+            //  var checknumber = int.Parse (Console.ReadLine ());
+
+            //                 if (SeqList.Contains (num1){
+            //                     num1 = UnordList[0];
+            //                 } else {
+            //                     if (SeqList.Contains (num2){
+            //                 }
+
+            //                 System.Console.WriteLine ("Loop AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA: " + num1 + " vs " + num2);
+
+            //                 for (int b = 0; b < UsedNumbers.Count; b++) {
+            //                     num1 = UnordList[b];
+
+            //                     System.Console.WriteLine ("Loop B: " + num1 + " vs " + num2);
+
+            // //                     if (num1 == 100 || num2 == 100) {
+            // // System.Console.WriteLine ("it equal 0 ");
+            // // break;
+            //                         if (num1 < num2) {
+            //                             smaller = num1;
+            //                             indextoremove = b;
+            //                             System.Console.WriteLine ("index1 " + indextoremove);
+            //                             // System.Console.WriteLine ("2: " + num1 + " vs " + num2);
+            //                         } else {
+            //                             if (num2 < num1) {
+            //                                 smaller = num2;
+            //                                 // indextoremove = b;
+            //                                 System.Console.WriteLine ("index2 " + indextoremove);
+            //                             }
+
+            //                             // num2 = num2;
+
+            //                             // System.Console.WriteLine ("index3 " + indextoremove);
+            //                             // System.Console.WriteLine ("3: " + num1 + " vs " + num2);
+            //                         }
+
+            //                     System.Console.WriteLine ("smallest number is " + smaller);
+            //                 }
+            //                 UnordList[indextoremove] = 0;
+
+            //                 System.Console.WriteLine ("unordelist  ");
+            //                 for (int c = 0; c < 5; c++) {
+            //                     System.Console.WriteLine (UnordList[c]);
+            //                 }
+
+            //                 SeqList.Add (smaller);
+            //             }
+
+            //             for (int c = 0; c < 5; c++) {
+            //                 System.Console.WriteLine (SeqList[c]);
+            //             }
+            //====
         }
-    }
-
-    public class Book {
-        public string BookTitle;
-        public int BookPageNo;
-
-        public Book (string _BookTitle, int _BookPageNo) {
-            this.BookTitle = _BookTitle;
-            this.BookPageNo = _BookPageNo;
-        }
-
-        public void PrintBookInfo () {
-            System.Console.WriteLine (this.BookTitle);
-            System.Console.WriteLine (this.BookPageNo);
-        }
-
-        public void ComparePageNumbers () {
-            System.Console.WriteLine (this.BookPageNo);
-            // System.Console.WriteLine (Book.BookPageNo);
-        }
-
     }
 }
+
+//         var b1 = new Book ("Moby Dick", 666);
+//         var b2 = new Book ("Happy Dogs!", 50);
+
+//         // b1.PrintBookInfo (b2);
+//         // b2.PrintBookInfo (b1);
+
+//         b1.PrintBookInfo ();
+//         System.Console.WriteLine ();
+//         System.Console.WriteLine (b1.ComparePageNumbers (b2));
+
+//         b2.PrintBookInfo ();
+//         System.Console.WriteLine ();
+//         System.Console.WriteLine (b2.ComparePageNumbers (b1));
+//     }
+// }
+
+// public class Book {
+//     public string BookTitle;
+//     public int BookPageNo;
+
+//     public Book (string _BookTitle, int _BookPageNo) {
+//         this.BookTitle = _BookTitle;
+//         this.BookPageNo = _BookPageNo;
+//     }
+
+//     public void PrintBookInfo () {
+//         System.Console.WriteLine (this.BookTitle);
+//         System.Console.WriteLine (this.BookPageNo + " pages");
+//     }
+
+//     public int ComparePageNumbers (Book other) {
+//         int difference = 0;
+//         if (this.BookPageNo > other.BookPageNo) {
+//             difference = this.BookPageNo - other.BookPageNo;
+//         } else if (other.BookPageNo > this.BookPageNo) {
+//             difference = other.BookPageNo - this.BookPageNo;
+//         }
+//         return difference;
+//     }
+
+// public int GetHeightDifference(Person other)
+//     {
+//         System.Console.Write("The difference in these two peoples' heights in cm is: ");
+//         int heightDiff = 0;
+
+//         if (this.heightInCm > other.heightInCm)
+//         {
+//             heightDiff = this.heightInCm - other.heightInCm;
+//         }
+//         if (other.heightInCm > this.heightInCm)
+//         {
+//             heightDiff = other.heightInCm - this.heightInCm;
+//         }
+//         return heightDiff;
+//     }
 
 //  : IEquatable<Subject> {
 // public string SubjectName { get; set; }

@@ -92,23 +92,38 @@ namespace week15 {
                     System.Console.WriteLine ("Please input a numerical value");
                     SetUpperLimit ();
                 } else {
-                    UpperLimit = num;
-                    System.Console.WriteLine (UpperLimit);
+                    if (num == 0) {
+                        System.Console.WriteLine ("Number cannot be 0... come on.");
+                        SetUpperLimit ();
+                    } else {
+                        if (num < 1) {
+                            System.Console.WriteLine ("number cannot be negative");
+                            SetUpperLimit ();
+                        } else {
+                            UpperLimit = num;
+                        }
+                    }
                 }
                 return;
             }
 
             void DrawNumber () {
-                int RandomNumber = random.Next (1, UpperLimit);
+                int RandomNumber = random.Next (1, UpperLimit + 1);
                 var alreadyexists = UsedNumbers.Contains (RandomNumber);
 
-                if (alreadyexists == true) {
-                    System.Console.Write ("Number drawn is " + RandomNumber + ", which has already been drawn.");
+                if (UsedNumbers.Count == UpperLimit) {
+                    System.Console.Write ("Maximum allowed numbers have been drawn.");
+                    Menu ();
                 } else {
-                    System.Console.Write ("Number drawn is " + RandomNumber);
-                    UsedNumbers.Add (RandomNumber);
+                    if (alreadyexists == true) {
+                        System.Console.WriteLine ("Number drawn is " + RandomNumber + ", which has already been drawn, attempting to drawn another number.");
+                        DrawNumber ();
+                    } else {
+                        System.Console.Write ("Number drawn is " + RandomNumber);
+                        UsedNumbers.Add (RandomNumber);
+                        Menu ();
+                    }
                 }
-                Menu ();
             }
 
             void PrintUsed () {
@@ -151,22 +166,62 @@ namespace week15 {
             }
 
             void CheckNumber () {
-                System.Console.Write ("Number to check: ");
-                var checknumber = int.Parse (Console.ReadLine ());
 
-                if (checknumber > UpperLimit) {
-                    System.Console.WriteLine ("That number is outside of the range that you set. (1 to " + UpperLimit + ")");
-                    CheckNumber ();
+                //
+                System.Console.Write ("Number to check: ");
+                string input = Console.ReadLine ();
+                int checknumber;
+
+                if (!int.TryParse (input, out checknumber)) {
+                    System.Console.WriteLine ("Please input a numerical value");
+                    Menu ();
                 } else {
-                    var alreadyexists = UsedNumbers.Contains (checknumber);
-                    if (alreadyexists == true) {
-                        System.Console.Write (checknumber + " has already been drawn.");
+                    if (checknumber == 0) {
+                        System.Console.WriteLine ("Number cannot be 0... come on.");
+                        Menu ();
                     } else {
-                        System.Console.Write (checknumber + " has not been drawn yet.");
+                        if (checknumber < 1) {
+                            System.Console.WriteLine ("number cannot be negative");
+                            Menu ();
+                        } else {
+
+                            if (checknumber > UpperLimit) {
+                                System.Console.WriteLine ("That number is outside of the range that you set. (1 to " + UpperLimit + ")");
+                                Menu ();
+                            } else {
+                                var alreadyexists = UsedNumbers.Contains (checknumber);
+                                if (alreadyexists == true) {
+                                    System.Console.Write (checknumber + " has already been drawn.");
+                                } else {
+                                    System.Console.Write (checknumber + " has not been drawn yet.");
+                                }
+                            }
+                            Menu ();
+
+                        }
+
                     }
+                    return;
                 }
-                Menu ();
             }
+            //
+
+            //     System.Console.Write ("Number to check: ");
+            //     var checknumber = int.Parse (Console.ReadLine ());
+
+            //     if (checknumber > UpperLimit) {
+            //         System.Console.WriteLine ("That number is outside of the range that you set. (1 to " + UpperLimit + ")");
+            //         CheckNumber ();
+            //     } else {
+            //         var alreadyexists = UsedNumbers.Contains (checknumber);
+            //         if (alreadyexists == true) {
+            //             System.Console.Write (checknumber + " has already been drawn.");
+            //         } else {
+            //             System.Console.Write (checknumber + " has not been drawn yet.");
+            //         }
+            //     }
+            //     Menu ();
+            // }
 
             void CheckListNumbers () {
                 System.Console.WriteLine ("Please type out a list of numbers, separated by a space");

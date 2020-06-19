@@ -84,10 +84,16 @@ namespace week15 {
 
             void SetUpperLimit () {
                 System.Console.Write ("Please select your upper limit of numbers to draw from: ");
-                UpperLimit = int.Parse (Console.ReadLine ());
-                if (UpperLimit < 1) {
-                    System.Console.WriteLine ("Number cannot be less than 1");
+
+                string input = Console.ReadLine ();
+                int num;
+
+                if (!int.TryParse (input, out num)) {
+                    System.Console.WriteLine ("Please input a numerical value");
                     SetUpperLimit ();
+                } else {
+                    UpperLimit = num;
+                    System.Console.WriteLine (UpperLimit);
                 }
                 return;
             }
@@ -128,7 +134,7 @@ namespace week15 {
                     SeqList.Add (UsedNumbers[i]);
                 }
 
-                System.Console.Write ("Numbers drawn so far, in numerical order, are: ");
+                System.Console.Write ("Numbers drawn so far in numerical order are: ");
 
                 SeqList.Sort ();
 
@@ -148,11 +154,16 @@ namespace week15 {
                 System.Console.Write ("Number to check: ");
                 var checknumber = int.Parse (Console.ReadLine ());
 
-                var alreadyexists = UsedNumbers.Contains (checknumber);
-                if (alreadyexists == true) {
-                    System.Console.Write (checknumber + " has already been drawn.");
+                if (checknumber > UpperLimit) {
+                    System.Console.WriteLine ("That number is outside of the range that you set. (1 to " + UpperLimit + ")");
+                    CheckNumber ();
                 } else {
-                    System.Console.Write (checknumber + " has not been drawn yet.");
+                    var alreadyexists = UsedNumbers.Contains (checknumber);
+                    if (alreadyexists == true) {
+                        System.Console.Write (checknumber + " has already been drawn.");
+                    } else {
+                        System.Console.Write (checknumber + " has not been drawn yet.");
+                    }
                 }
                 Menu ();
             }
@@ -160,8 +171,6 @@ namespace week15 {
             void CheckListNumbers () {
                 System.Console.WriteLine ("Please type out a list of numbers, separated by a space");
                 System.Console.Write ("Numbers to check: ");
-
-                // var numbers = int.Parse (Console.ReadLine ());
 
                 var input = Console.ReadLine ();
                 var numbers = input.Split (' ');
@@ -172,7 +181,6 @@ namespace week15 {
                 foreach (var x in numbers) {
 
                     if (Int32.TryParse (x, out num)) {
-                        // num is your number as integer
                         if (UsedNumbers.Contains (num)) {
                             Used.Add (num);
                         } else {
@@ -181,12 +189,12 @@ namespace week15 {
                     }
                 }
                 System.Console.WriteLine ();
-                System.Console.Write ("These have been drawn: ");
+                System.Console.Write ("These numbers have been drawn: ");
                 foreach (var x in Used) {
                     System.Console.Write (x + " ");
                 }
                 System.Console.WriteLine ();
-                System.Console.Write ("These have not been drawn: ");
+                System.Console.Write ("These numbers have not been drawn: ");
                 foreach (var x in NotUsed) {
                     System.Console.Write (x + " ");
                 }
@@ -203,11 +211,11 @@ namespace week15 {
                 for (int i = 0; i < UsedNumbers.Count; i++) {
                     total = total + UsedNumbers[i];
                 }
-                System.Console.WriteLine ("The total sum of all numbers drawn is: " + total);
+                System.Console.WriteLine ("The total sum of all numbers drawn is: " + total + ".");
 
                 // get average
                 int average = total / UsedNumbers.Count;
-                System.Console.Write ("The average of all numbers drawn is: " + average);
+                System.Console.Write ("The average of all numbers drawn is: " + average + ".");
                 Menu ();
             }
 

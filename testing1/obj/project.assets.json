@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\testing1\\testing1.csproj",
+      "projectUniqueName": "G:\\backup june2020\\Schoolwork Swinburne\\Intro_Programming\\testing1\\testing1.csproj",
       "projectName": "testing1",
-      "projectPath": "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\testing1\\testing1.csproj",
+      "projectPath": "G:\\backup june2020\\Schoolwork Swinburne\\Intro_Programming\\testing1\\testing1.csproj",
       "packagesPath": "C:\\Users\\Lachlan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lachlan\\Desktop\\Intro_Programming\\testing1\\obj\\",
+      "outputPath": "G:\\backup june2020\\Schoolwork Swinburne\\Intro_Programming\\testing1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lachlan\\AppData\\Roaming\\NuGet\\NuGet.Config"

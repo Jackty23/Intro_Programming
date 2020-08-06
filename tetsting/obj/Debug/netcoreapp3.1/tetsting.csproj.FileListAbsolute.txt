@@ -1,0 +1,22 @@
+C:\Users\Lachlan\Desktop\Intro_Programming\tetsting\obj\Debug\netcoreapp3.1\tetsting.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\tetsting\obj\Debug\netcoreapp3.1\tetsting.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Intro_Programming\tetsting\obj\Debug\netcoreapp3.1\tetsting.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Intro_Programming\tetsting\bin\Debug\netcoreapp3.1\tetsting.exe
+C:\Users\Lachlan\Desktop\Intro_Programming\tetsting\bin\Debug\netcoreapp3.1\tetsting.deps.json
+C:\Users\Lachlan\Desktop\Intro_Programming\tetsting\bin\Debug\netcoreapp3.1\tetsting.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Intro_Programming\tetsting\bin\Debug\netcoreapp3.1\tetsting.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Intro_Programming\tetsting\bin\Debug\netcoreapp3.1\tetsting.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\tetsting\bin\Debug\netcoreapp3.1\tetsting.pdb
+C:\Users\Lachlan\Desktop\Intro_Programming\tetsting\obj\Debug\netcoreapp3.1\tetsting.dll
+C:\Users\Lachlan\Desktop\Intro_Programming\tetsting\obj\Debug\netcoreapp3.1\tetsting.pdb
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\tetsting\obj\Debug\netcoreapp3.1\tetsting.csprojAssemblyReference.cache
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\tetsting\obj\Debug\netcoreapp3.1\tetsting.AssemblyInfoInputs.cache
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\tetsting\obj\Debug\netcoreapp3.1\tetsting.AssemblyInfo.cs
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\tetsting\obj\Debug\netcoreapp3.1\tetsting.dll
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\tetsting\obj\Debug\netcoreapp3.1\tetsting.pdb
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\tetsting\bin\Debug\netcoreapp3.1\tetsting.exe
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\tetsting\bin\Debug\netcoreapp3.1\tetsting.deps.json
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\tetsting\bin\Debug\netcoreapp3.1\tetsting.runtimeconfig.json
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\tetsting\bin\Debug\netcoreapp3.1\tetsting.runtimeconfig.dev.json
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\tetsting\bin\Debug\netcoreapp3.1\tetsting.dll
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\tetsting\bin\Debug\netcoreapp3.1\tetsting.pdb

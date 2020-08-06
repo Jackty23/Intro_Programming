@@ -9,3 +9,14 @@ C:\Users\Lachlan\Desktop\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\test
 C:\Users\Lachlan\Desktop\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\testing1.pdb
 C:\Users\Lachlan\Desktop\Intro_Programming\testing1\obj\Debug\netcoreapp3.1\testing1.dll
 C:\Users\Lachlan\Desktop\Intro_Programming\testing1\obj\Debug\netcoreapp3.1\testing1.pdb
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\testing1.exe
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\testing1.deps.json
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\testing1.runtimeconfig.json
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\testing1.runtimeconfig.dev.json
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\testing1.dll
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\testing1\bin\Debug\netcoreapp3.1\testing1.pdb
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\testing1\obj\Debug\netcoreapp3.1\testing1.csprojAssemblyReference.cache
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\testing1\obj\Debug\netcoreapp3.1\testing1.AssemblyInfoInputs.cache
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\testing1\obj\Debug\netcoreapp3.1\testing1.AssemblyInfo.cs
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\testing1\obj\Debug\netcoreapp3.1\testing1.dll
+G:\backup june2020\Schoolwork Swinburne\Intro_Programming\testing1\obj\Debug\netcoreapp3.1\testing1.pdb
